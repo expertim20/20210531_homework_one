@@ -7,3 +7,4 @@
 - zusätzliche fotos/ bilder könnte meine pläne illustrieren
 - eine adresslist wäre hilfreich für andere interessierte
 - ggf. könnte eine sammlung an nützlichen links den wert der arbeit anheben
+- 
